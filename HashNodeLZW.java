@@ -1,9 +1,5 @@
 /*
-TimCartmelHashingLZW Component B
 Timothy Cartmel
-COSC2203 Data Structures
-Assign 4 Hashing LZW
-4/8/2020
 This file stores the data of the nodes for the hash table.
  */
 package timchashinglzw;

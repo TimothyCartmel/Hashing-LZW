@@ -1,9 +1,5 @@
 /*
-TimCartmelHashingLZW Component B
 Timothy Cartmel
-COSC2203 Data Structures
-Assign 4 Hashing LZW
-4/8/2020
 This program compresses and decompresses a text file.
  */
 package timchashinglzw;
