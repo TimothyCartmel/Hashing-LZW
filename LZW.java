@@ -1,11 +1,7 @@
 /*
-TimCartmelHashingLZW Component B
 Timothy Cartmel
-COSC2203 Data Structures
-Assign 4 Hashing LZW
-4/8/2020
 This file contains the main compress and decompress methods.
- */
+*/
 package timchashinglzw;
 
 import java.util.Scanner;
